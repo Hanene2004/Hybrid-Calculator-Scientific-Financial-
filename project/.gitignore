@@ -1,0 +1,43 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+.npm/
+
+# Builds
+/dist/
+/out-tsc/
+/tmp/
+/.angular/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Coverage
+coverage/
+
+# Env
+.env
+.env.*
+
+# Angular cache
+.angular/cache/
+
+# Misc
+*.local
+*.tgz
+
+# Lock backup
+package-lock.backup.json
